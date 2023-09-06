@@ -12,8 +12,6 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "variable2&Sequence_1",
-        "variable1&Sequence_1",
         "Signature&Sequence_6",
         "DiscountValue&Sequence_6",
         "ClientCode&Sequence_4",
